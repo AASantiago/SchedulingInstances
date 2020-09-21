@@ -1,6 +1,6 @@
 # Scheduling instances used in: GRASP and Iterated Local Search Based Cellular Processing Algorithm for Precedence-Constraint Task List Scheduling on Heterogeneous Systems
 
-This parallel DAGs are also studied in:
+This parallel program instances are also studied in:
 
 Carlos Soto, Alejandro Santiago, Héctor Fraire, Bernabé Dorronsoro (2018). Optimal Scheduling for Precedence-Constrained Applications on Heterogeneous Machines, Proceedings of MOL2NET 2018, International Conference on Multidisciplinary Sciences, 4th edition, 1 (doi: 10.3390/mol2net-04-05925).
 
