@@ -10,7 +10,7 @@ J. E. Pecero, H. J. F. Huacuja, P. Bouvry, A. A. S. Pineda, M. C. L. Locés and 
 
 The instances use the following format:
 
-#critical
+#critical\
 0.000
 #tasks
 0: 11.00, 13.00, 9.00
