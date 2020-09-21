@@ -33,6 +33,6 @@ The instances use the following format:
 8:  4,  6,  27.00\
 9:  5,  7,  21.00\
 10: 6, 7, 13.00\
-#end\
+#end
 
 The first Section #critical can be ignore (not computed in most cases). The second Section #tasks represents the computing time units in the machines starting from the machine 0 to the last machine k-1. The third Section represents the DAG edges: initial, ending, edge cost.
