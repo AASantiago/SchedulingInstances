@@ -1,5 +1,7 @@
 # Scheduling instances used in: GRASP and Iterated Local Search Based Cellular Processing Algorithm for Precedence-Constraint Task List Scheduling on Heterogeneous Systems
 
+Santiago, A.; Terán-Villanueva, J.D.; Martínez, S.I.; Rocha, J.A.C.; Menchaca, J.L.; Berrones, M.G.T.; Ponce-Flores, M. GRASP and Iterated Local Search-Based Cellular Processing algorithm for Precedence-Constraint Task List Scheduling on Heterogeneous Systems. Appl. Sci. 2020, 10, 7500.
+
 This parallel program instances are also studied in:
 
 Carlos Soto, Alejandro Santiago, Héctor Fraire, Bernabé Dorronsoro (2018). Optimal Scheduling for Precedence-Constrained Applications on Heterogeneous Machines, Proceedings of MOL2NET 2018, International Conference on Multidisciplinary Sciences, 4th edition, 1 (doi: 10.3390/mol2net-04-05925).
