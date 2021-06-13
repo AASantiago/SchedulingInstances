@@ -4,6 +4,8 @@ Santiago, A.; Terán-Villanueva, J.D.; Martínez, S.I.; Rocha, J.A.C.; Menchaca,
 
 This parallel program instances are also studied in:
 
+Santiago, A.; Ponce-Flores, M.; Terán-Villanueva, J.D.; Balderas, F.; Martínez, S.I.; Rocha, J.A.C.; Menchaca, J.L.; Berrones, M.G.T. Energy Idle Aware Stochastic Lexicographic Local Searches for Precedence-Constraint Task List Scheduling on Heterogeneous Systems. Energies 2021, 14, 3473. https://doi.org/10.3390/en14123473
+
 Carlos Soto, Alejandro Santiago, Héctor Fraire, Bernabé Dorronsoro (2018). Optimal Scheduling for Precedence-Constrained Applications on Heterogeneous Machines, Proceedings of MOL2NET 2018, International Conference on Multidisciplinary Sciences, 4th edition, 1 (doi: 10.3390/mol2net-04-05925).
 
 Aurelio A. Santiago Pineda, Johnatan E. Pecero, Héctor J. Fraire Huacuja, Juan J. Gonzalez Barbosa, Pascal Bouvry (2013). An Iterative Local Search algorithm for scheduling precedence-constrained applications on heterogeneous machines. In Multidisciplinary International Conference on Scheduling: Theory and Applications (MISTA), 2013.
